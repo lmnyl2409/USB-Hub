@@ -9,6 +9,7 @@
 And finally.....this is my first-ever hardware project.
 The schematics and PCB layout is kinda messy, excuse me with that.....
 
+<h4>Project link:</h4> https://oshwlab.com/lmnyl2409/project_pvyxictv
 <h2>Schematic and PCB images:</h2>
 <h6>Schematics</h6>
 <img width="1187" height="778" alt="image" src="https://github.com/user-attachments/assets/d8ecf73f-85b8-47ed-bd6d-95535523dcec" />
