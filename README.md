@@ -5,5 +5,6 @@
   <li>I wanna learn about PCBs</li>
   <li>I wanted to start hardware for sooo long...</li>
 </ol>
+
 And finally.....this is my first-ever hardware project.
 The schematics and PCB layout is kinda messy, excuse me with that.....
