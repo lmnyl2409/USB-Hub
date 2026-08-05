@@ -8,3 +8,6 @@
 
 And finally.....this is my first-ever hardware project.
 The schematics and PCB layout is kinda messy, excuse me with that.....
+
+<h2>Schematic and PCB images:</h2>
+
