@@ -10,7 +10,7 @@ And finally.....this is my first-ever hardware project.
 The schematics and PCB layout is kinda messy, excuse me with that.....
 
 <h3>Project link:</h3> https://oshwlab.com/lmnyl2409/project_pvyxictv
-<h3>Bill Of Materials:</h3>
+## Bill Of Materials:
 |No.|Comment|Designator|Footprint|Quantity|Price|Link
 |---|---|---|---|---|---|---|---|---|
 |1|1uF|C1,C2,C3,C4,C6,C8,C10,C11|C0603|16|1.2064|https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849|
