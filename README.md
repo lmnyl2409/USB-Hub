@@ -15,7 +15,7 @@ The schematics and PCB layout is kinda messy, excuse me with that.....
 
 Source:BOM_USB-Hub_2026-08-06 (1)-JLCPCB Assembly Ord-JLCPCB Assembly Order (1).xls
 
-|No.|Comment|Designator|Footprint|Quantity|Price|Link
+**|No.|Comment|Designator|Footprint|Quantity|Price|Link**
 |---|---|---|---|---|---|---|---|---|
 |1|1uF|C1,C2,C3,C4,C6,C8,C10,C11|C0603|16|1.2064|https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849|
 |2|100nF|C5,C7,C9|C0603|6|0.1134|https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663|
