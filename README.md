@@ -10,7 +10,7 @@ And finally.....this is my first-ever hardware project.
 The schematics and PCB layout is kinda messy, excuse me with that.....
 
 <h3>Project link:</h3> https://oshwlab.com/lmnyl2409/project_pvyxictv
-<h3>BOM link:</h3>-
+<h3>BOM link:</h3>https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flmnyl2409%2FUSB-Hub%2Frefs%2Fheads%2Fmain%2FBOM_USB-Hub_2026-08-06%2520(1)-JLCPCB%2520Assembly%2520Ord-JLCPCB%2520Assembly%2520Order%2520(1).xls&wdOrigin=BROWSELINK
 <h2>Schematic and PCB images:</h2>
 <h6>Schematics</h6>
 <img width="1187" height="778" alt="image" src="https://github.com/user-attachments/assets/d8ecf73f-85b8-47ed-bd6d-95535523dcec" />
