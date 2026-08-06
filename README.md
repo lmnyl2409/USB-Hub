@@ -13,9 +13,9 @@ The schematics and PCB layout is kinda messy, excuse me with that.....
 
 ## Bill Of Materials:
 
-Source:BOM_USB-Hub_2026-08-06 (1)-JLCPCB Assembly Ord-JLCPCB Assembly Order (1).xls
+Source: `BOM_USB-Hub_2026-08-06 (1)-JLCPCB Assembly Ord-JLCPCB Assembly Order (1).xls`
 
-**|No.|Comment|Designator|Footprint|Quantity|Price|Link**
+|No.|Comment|Designator|Footprint|Quantity|Price|Link|
 |---|---|---|---|---|---|---|---|---|
 |1|1uF|C1,C2,C3,C4,C6,C8,C10,C11|C0603|16|1.2064|https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849|
 |2|100nF|C5,C7,C9|C0603|6|0.1134|https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663|
@@ -26,7 +26,7 @@ Source:BOM_USB-Hub_2026-08-06 (1)-JLCPCB Assembly Ord-JLCPCB Assembly Order (1).
 |7|10.0 QHHTZB6.3|USB4|USB-A-TH_10.0QHHTZB6.3|6|0.3972|https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591|
 |8|PCB|-|-|-|4$ from JLCPCB|-|
 
-<h2>Schematic and PCB images:</h2>
+## Schematic and PCB images:
 <h6>Schematics</h6>
 <img width="1187" height="778" alt="image" src="https://github.com/user-attachments/assets/d8ecf73f-85b8-47ed-bd6d-95535523dcec" />
 
