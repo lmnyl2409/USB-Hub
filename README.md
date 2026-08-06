@@ -10,7 +10,18 @@ And finally.....this is my first-ever hardware project.
 The schematics and PCB layout is kinda messy, excuse me with that.....
 
 <h3>Project link:</h3> https://oshwlab.com/lmnyl2409/project_pvyxictv
-<h3>BOM link:</h3>https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flmnyl2409%2FUSB-Hub%2Frefs%2Fheads%2Fmain%2FBOM_USB-Hub_2026-08-06%2520(1)-JLCPCB%2520Assembly%2520Ord-JLCPCB%2520Assembly%2520Order%2520(1).xls&wdOrigin=BROWSELINK
+<h3>Bill Of Materials:</h3>
+|No.|Comment|Designator|Footprint|Quantity|Price|Link
+|---|---|---|---|---|---|---|---|---|
+|1|1uF|C1,C2,C3,C4,C6,C8,C10,C11|C0603|16|1.2064|https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849|
+|2|100nF|C5,C7,C9|C0603|6|0.1134|https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663|
+|3|56k|R1,R2,R3,R4|RO603|8|0.0648|https://jlcpcb.com/partdetail/23933-0603WAF5602T5E/C23206|
+|4|5.1k|R5,R6|R0603|4|0.0336|https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186|
+|5|SL2.1S|U1|SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL|5|1.254|https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433|
+|6|TYPE-C 16PIN 2MD(073)|USB1,USB2,USB3|USB-C-SMD_TYPE-C-16PIN-2MD-073|7|0.5152|https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186|
+|7|10.0 QHHTZB6.3|USB4|USB-A-TH_10.0QHHTZB6.3|6|0.3972|https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591|
+|8|PCB|-|-|-|4$ from JLCPCB|-|
+
 <h2>Schematic and PCB images:</h2>
 <h6>Schematics</h6>
 <img width="1187" height="778" alt="image" src="https://github.com/user-attachments/assets/d8ecf73f-85b8-47ed-bd6d-95535523dcec" />
